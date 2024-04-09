@@ -140,6 +140,7 @@ int main() {
         string segu_binario = cambio_Binario(y, cant_bits);
         string respuesta = resta_comple2(pri_binario, segu_binario);
         cout << "El resultado es: " << respuesta << endl;
+        break;
     }
     default:
     return 0;
