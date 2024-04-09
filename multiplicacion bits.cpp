@@ -2,10 +2,7 @@
 #include <bitset>
 #include <string>
 #include <cmath>
-
 using namespace std;
-
-
 
 string cambio_Binario(int a, int num_bits) {
     string bi = "";
